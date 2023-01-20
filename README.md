@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jairo
 - 👀 I’m interested in Computer Languages and Chemistry
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning the Rust language
 - 💞️ I’m looking to collaborate on free software
 - 📫 My e-mail is jajesus1@gmail.com
 
